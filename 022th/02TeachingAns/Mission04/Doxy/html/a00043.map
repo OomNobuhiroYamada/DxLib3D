@@ -1,0 +1,6 @@
+<map id="Segment" name="Segment">
+<area shape="rect" id="node1" title="線分" alt="" coords="5,247,80,273"/>
+<area shape="rect" id="node2" href="$a00041.html" title="直線" alt="" coords="19,171,66,197"/>
+<area shape="rect" id="node3" href="$a00033.html" title="3成分float" alt="" coords="8,5,67,32"/>
+<area shape="rect" id="node4" href="$a00037.html" title="ベクトル" alt="" coords="58,81,110,108"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="Player_Move" name="Player_Move">
+<area shape="rect" id="node1" title="プレイヤーの移動処理" alt="" coords="5,5,101,32"/>
+<area shape="rect" id="node2" href="$a00008.html#ad8a406c2007a4ce0b8b8ee73cf926f55" title="プレイヤーに新たなアニメーションを再生する" alt="" coords="149,5,272,32"/>
+</map>

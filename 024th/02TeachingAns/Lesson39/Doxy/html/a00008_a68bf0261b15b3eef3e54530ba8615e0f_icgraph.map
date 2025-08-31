@@ -1,0 +1,6 @@
+<map id="Chara_Process" name="Chara_Process">
+<area shape="rect" id="node1" title="キャラクターの処理" alt="" coords="309,31,420,57"/>
+<area shape="rect" id="node2" href="$a00008.html#a9972e7051129ff148f89bd9cd7dba05b" title="プレイヤー以外キャラの処理" alt="" coords="127,5,261,32"/>
+<area shape="rect" id="node4" href="$a00008.html#ad8536e6b9cdeb75d8fe93088a7274957" title="プレイヤーの処理" alt="" coords="137,56,251,83"/>
+<area shape="rect" id="node3" href="$a00008.html#a661c2abc03926acfaeb93b4ae7db4943" title=" " alt="" coords="5,31,79,57"/>
+</map>

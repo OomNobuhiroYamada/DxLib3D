@@ -1,0 +1,11 @@
+<map id="Chara_PlayAnim" name="Chara_PlayAnim">
+<area shape="rect" id="node1" title="キャラクターに新たなアニメーションを再生する" alt="" coords="609,95,728,121"/>
+<area shape="rect" id="node2" href="$a00008.html#a812b56745c8e17d530aebb0144956e71" title="キャラクターの初期化" alt="" coords="309,44,420,71"/>
+<area shape="rect" id="node6" href="$a00008.html#af41d3ba8b89eb23f9fe3af7e1a487d59" title="キャラクターの移動処理" alt="" coords="468,95,561,121"/>
+<area shape="rect" id="node7" href="$a00008.html#a68bf0261b15b3eef3e54530ba8615e0f" title="キャラクターの処理" alt="" coords="309,120,420,147"/>
+<area shape="rect" id="node3" href="$a00008.html#a50208a0c0fe5d26876a99e46ac4953fa" title="プレイヤー以外キャラの初期化" alt="" coords="127,5,261,32"/>
+<area shape="rect" id="node5" href="$a00008.html#a2f02c898c89cd68991f1f56675a9ff77" title="プレイヤーの初期化" alt="" coords="137,56,251,83"/>
+<area shape="rect" id="node4" href="$a00008.html#a661c2abc03926acfaeb93b4ae7db4943" title=" " alt="" coords="5,81,79,108"/>
+<area shape="rect" id="node8" href="$a00008.html#a9972e7051129ff148f89bd9cd7dba05b" title="プレイヤー以外キャラの処理" alt="" coords="127,107,261,133"/>
+<area shape="rect" id="node9" href="$a00008.html#ad8536e6b9cdeb75d8fe93088a7274957" title="プレイヤーの処理" alt="" coords="137,157,251,184"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="MoveProcess" name="MoveProcess">
+<area shape="rect" id="node1" title="探索した経路を移動する処理の１フレーム分の処理を行う" alt="" coords="5,5,105,32"/>
+<area shape="rect" id="node2" href="$_main_8cpp.html#ac6bd38b385c3d8400fe5574bf315ddd4" title="指定の座標の直下、若しくは直上にあるポリゴンの番号を取得する( ポリゴンが無かった場合は &#45;1 を返す )" alt="" coords="708,5,841,32"/>
+<area shape="rect" id="node3" href="$_main_8cpp.html#a0ae132ca615e9b095e2f5f26c0081313" title="探索した経路を移動する処理で移動方向を更新する処理を行う" alt="" coords="153,31,300,57"/>
+<area shape="rect" id="node4" href="$_main_8cpp.html#aa311acb925df2cab1520f9f2bfedb821" title="ポリゴン同士の連結情報を使用して指定の二つの座標間を直線的に移動できるかどうかをチェックする( 戻り値 true:直線的に移動できる false:直線的に移動できない )( 幅指定版 )" alt="" coords="348,31,497,57"/>
+<area shape="rect" id="node5" href="$_main_8cpp.html#a776d8202a7255b46181ee70070dc39f2" title="ポリゴン同士の連結情報を使用して指定の二つの座標間を直線的に移動できるかどうかをチェックする( 戻り値 true:直線的に移動できる false:直線的に移動できない )" alt="" coords="545,31,660,57"/>
+</map>

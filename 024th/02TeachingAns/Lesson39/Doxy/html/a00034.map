@@ -1,0 +1,4 @@
+<map id="NOTPLAYER" name="NOTPLAYER">
+<area shape="rect" id="node1" title="プレイヤー以外キャラ情報構造体" alt="" coords="5,95,105,121"/>
+<area shape="rect" id="node2" href="$a00028.html" title="キャラクター情報" alt="" coords="22,5,89,32"/>
+</map>

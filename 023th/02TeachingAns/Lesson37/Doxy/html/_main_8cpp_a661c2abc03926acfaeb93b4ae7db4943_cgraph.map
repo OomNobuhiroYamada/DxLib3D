@@ -1,0 +1,17 @@
+<map id="WinMain" name="WinMain">
+<area shape="rect" id="node1" title=" " alt="" coords="5,208,79,235"/>
+<area shape="rect" id="node2" href="$_main_8cpp.html#a5ac59779558c9b91d387bc2fe3ed90d5" title="カメラの初期化処理" alt="" coords="127,5,249,32"/>
+<area shape="rect" id="node3" href="$_main_8cpp.html#a9ec38bb7111f907717b01363719dbf49" title="カメラの処理" alt="" coords="127,56,249,83"/>
+<area shape="rect" id="node4" href="$_main_8cpp.html#a6d7f700fdc9b4809eaf244630c8e4825" title="入力処理" alt="" coords="135,107,241,133"/>
+<area shape="rect" id="node5" href="$_main_8cpp.html#a2f02c898c89cd68991f1f56675a9ff77" title="プレイヤーの初期化" alt="" coords="317,81,431,108"/>
+<area shape="rect" id="node7" href="$_main_8cpp.html#ad8536e6b9cdeb75d8fe93088a7274957" title="プレイヤーの処理" alt="" coords="131,208,245,235"/>
+<area shape="rect" id="node11" href="$_main_8cpp.html#a1f745253cdeca6ad7fe7c839b308c26e" title="プレイヤーの後始末" alt="" coords="127,259,249,285"/>
+<area shape="rect" id="node12" href="$_main_8cpp.html#adf681aa9ce2d8c40857b6f4ef13dd5e9" title="描画処理" alt="" coords="129,309,247,336"/>
+<area shape="rect" id="node14" href="$_main_8cpp.html#a6a1b1a2e57f1e9da84af57e4c794c248" title="ステージの初期化処理" alt="" coords="133,360,243,387"/>
+<area shape="rect" id="node15" href="$_main_8cpp.html#ae67e7eeb2757f745f96c6ab961c8fca6" title="ステージの後始末処理" alt="" coords="128,411,248,437"/>
+<area shape="rect" id="node6" href="$_main_8cpp.html#a03229ffaeba312a5cf26cfc5e76e8002" title="プレイヤーに新たなアニメーションを再生する" alt="" coords="499,132,621,159"/>
+<area shape="rect" id="node8" href="$_main_8cpp.html#aea9684cf29682694f5e8663cd99b152a" title="プレイヤーの向きを変える処理" alt="" coords="301,183,447,209"/>
+<area shape="rect" id="node9" href="$_main_8cpp.html#aad7726f19b041b37d2d3010759979b2f" title="プレイヤーのアニメーション処理" alt="" coords="302,233,446,260"/>
+<area shape="rect" id="node10" href="$_main_8cpp.html#a89024e14d1516971d7887c54697d0974" title="プレイヤーの移動処理" alt="" coords="326,284,422,311"/>
+<area shape="rect" id="node13" href="$_main_8cpp.html#a9610dd8a32ac9181ec998a3a3368615d" title="プレイヤーの影を描画" alt="" coords="297,335,451,361"/>
+</map>

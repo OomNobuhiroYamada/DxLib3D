@@ -1,0 +1,9 @@
+<map id="Player_Process" name="Player_Process">
+<area shape="rect" id="node1" title="プレイヤーの処理" alt="" coords="5,56,120,83"/>
+<area shape="rect" id="node2" href="$a00008.html#ad6043bd3f352eff90ad96da454b1eb1e" title="キャラクターに当たっていたら押し出す処理を行う( chkCh に ch が当たっていたら ch が離れる )" alt="" coords="168,31,280,57"/>
+<area shape="rect" id="node3" href="$a00008.html#a68bf0261b15b3eef3e54530ba8615e0f" title="キャラクターの処理" alt="" coords="169,81,279,108"/>
+<area shape="rect" id="node4" href="$a00008.html#abb1f196488fa1eb2b3d99a363a05b25a" title="キャラクターの向きを変える処理" alt="" coords="328,5,472,32"/>
+<area shape="rect" id="node5" href="$a00008.html#adbdfd5c5946363e7685ac1ecac34a804" title="キャラクターのアニメーション処理" alt="" coords="329,56,471,83"/>
+<area shape="rect" id="node6" href="$a00008.html#af41d3ba8b89eb23f9fe3af7e1a487d59" title="キャラクターの移動処理" alt="" coords="353,107,447,133"/>
+<area shape="rect" id="node7" href="$a00008.html#ab79c8892a38945d08558384ce52f3267" title="キャラクターに新たなアニメーションを再生する" alt="" coords="520,132,639,159"/>
+</map>

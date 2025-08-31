@@ -1,0 +1,5 @@
+<map id="NotPlayer_Initialize" name="NotPlayer_Initialize">
+<area shape="rect" id="node1" title="プレイヤー以外キャラの初期化" alt="" coords="5,5,139,32"/>
+<area shape="rect" id="node2" href="$a00008.html#a812b56745c8e17d530aebb0144956e71" title="キャラクターの初期化" alt="" coords="187,5,297,32"/>
+<area shape="rect" id="node3" href="$a00008.html#ab79c8892a38945d08558384ce52f3267" title="キャラクターに新たなアニメーションを再生する" alt="" coords="345,5,464,32"/>
+</map>

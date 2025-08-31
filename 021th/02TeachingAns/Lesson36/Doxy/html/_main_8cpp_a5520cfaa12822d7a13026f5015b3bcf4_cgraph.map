@@ -1,0 +1,4 @@
+<map id="SetupPathPlanning" name="SetupPathPlanning">
+<area shape="rect" id="node1" title="指定の２点の経路を探索する( 戻り値 true:経路構築成功 false:経路構築失敗( スタート地点とゴール地点を繋ぐ経路が無かった等 ) )" alt="" coords="5,5,139,32"/>
+<area shape="rect" id="node2" href="$_main_8cpp.html#ac6bd38b385c3d8400fe5574bf315ddd4" title="指定の座標の直下、若しくは直上にあるポリゴンの番号を取得する( ポリゴンが無かった場合は &#45;1 を返す )" alt="" coords="187,5,320,32"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="PLAYER" name="PLAYER">
+<area shape="rect" id="node1" title="プレイヤー情報構造体" alt="" coords="5,95,80,121"/>
+<area shape="rect" id="node2" href="$a00028.html" title="キャラクター情報" alt="" coords="9,5,76,32"/>
+</map>

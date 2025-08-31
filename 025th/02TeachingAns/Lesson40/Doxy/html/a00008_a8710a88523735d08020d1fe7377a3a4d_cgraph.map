@@ -1,0 +1,4 @@
+<map id="Player_Initialize" name="Player_Initialize">
+<area shape="rect" id="node1" title="プレイヤーの初期化" alt="" coords="5,5,119,32"/>
+<area shape="rect" id="node2" href="$a00008.html#ad8a406c2007a4ce0b8b8ee73cf926f55" title="プレイヤーに新たなアニメーションを再生する" alt="" coords="167,5,289,32"/>
+</map>

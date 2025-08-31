@@ -1,0 +1,8 @@
+<map id="WinMain" name="WinMain">
+<area shape="rect" id="node1" title=" " alt="" coords="5,81,79,108"/>
+<area shape="rect" id="node2" href="$a00061.html#a74aa54556251e9f50b9f05a937fb5487" title="カプセルとカプセルの当たり判定" alt="" coords="127,5,327,32"/>
+<area shape="rect" id="node3" href="$a00002.html#a2f6ba160f6af3b1f5fdaad33eadad58a" title=" " alt="" coords="169,56,284,83"/>
+<area shape="rect" id="node4" href="$a00061.html#aecb1a1c1eecd38ccbf83a0ae14e70556" title="球と球の当たり判定" alt="" coords="133,107,321,133"/>
+<area shape="rect" id="node5" href="$a00061.html#a0464e2cea9d297a74216a38a266e7d13" title="描画" alt="" coords="185,157,269,184"/>
+<area shape="rect" id="node6" href="$a00008.html#ac36f7725ed28b5fb4580b68d4119b273" title=" " alt="" coords="375,157,460,184"/>
+</map>

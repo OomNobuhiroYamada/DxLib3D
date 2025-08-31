@@ -1,0 +1,4 @@
+<map id="Chara_Initialize" name="Chara_Initialize">
+<area shape="rect" id="node1" title="キャラクターの初期化" alt="" coords="5,5,116,32"/>
+<area shape="rect" id="node2" href="$a00008.html#ab79c8892a38945d08558384ce52f3267" title="キャラクターに新たなアニメーションを再生する" alt="" coords="164,5,283,32"/>
+</map>

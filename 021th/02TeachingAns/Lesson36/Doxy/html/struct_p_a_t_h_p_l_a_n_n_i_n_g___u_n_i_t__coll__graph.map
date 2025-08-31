@@ -1,0 +1,3 @@
+<map id="PATHPLANNING_UNIT" name="PATHPLANNING_UNIT">
+<area shape="rect" id="node1" title="経路探索処理用の１ポリゴンの情報" alt="" coords="5,5,161,32"/>
+</map>

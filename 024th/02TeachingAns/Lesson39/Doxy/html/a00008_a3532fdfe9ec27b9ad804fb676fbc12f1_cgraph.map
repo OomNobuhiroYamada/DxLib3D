@@ -1,0 +1,4 @@
+<map id="NotPlayer_Terminate" name="NotPlayer_Terminate">
+<area shape="rect" id="node1" title="プレイヤー以外キャラの後始末" alt="" coords="5,5,148,32"/>
+<area shape="rect" id="node2" href="$a00008.html#a9a4fc5af9e033163b2c63cc341c907db" title="キャラクターの後始末" alt="" coords="196,5,316,32"/>
+</map>
